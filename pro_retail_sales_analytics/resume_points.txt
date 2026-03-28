@@ -1,0 +1,4 @@
+1. Built a professional retail sales analytics project using SQL, Python, and Power BI on a 10,000-row dataset to analyze revenue, profit, returns, inventory, and regional performance.
+2. Wrote SQL queries using aggregations, CTEs, and window functions to generate KPIs such as top products, return rate, margin analysis, and region-wise sales trends.
+3. Performed data cleaning and exploratory analysis in Python using pandas, numpy, and matplotlib, and designed dashboard-ready insights for executive reporting.
+4. Planned an interactive Power BI dashboard with KPI cards, monthly trends, category insights, operations tracking, and customer segment analysis.
