@@ -49,14 +49,13 @@ retail_sales_analytics/
 * Revenue and profit trend analysis
 * Category and product performance analysis
 
-## 📊 Dashboard
+ ## 📊 Dashboard Preview
 
-Power BI dashboard includes:
+### Page 1
+![Dashboard Page 1](images/dashboard_preview_page1.png)
 
-* Revenue trends over time
-* Category-wise performance
-* Top products by sales
-* Profit distribution
+### Page 2
+![Dashboard Page 2](images/dashboard_preview_page2.png)
 
 (Add dashboard screenshot in the `images/` folder)
 
