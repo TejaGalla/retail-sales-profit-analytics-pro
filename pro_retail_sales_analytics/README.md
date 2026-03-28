@@ -1,34 +1,82 @@
-# 🚀 Retail Sales & Profit Analytics Pro
+# 🚀 Retail Sales & Profit Analytics (Professional Project)
 
-## Project Overview
-Professional end-to-end Data Analyst project using **SQL + Python + Power BI** on a **10,000-row dataset**.
+## 📌 Overview
 
-## Business Questions
-- Which categories and products drive the most revenue and profit?
-- Which regions and cities perform best?
-- How do discounts affect margins?
-- Where are returns, delivery delays, and low inventory creating risk?
+This project analyzes large-scale retail sales data to uncover business insights related to revenue, profit, and product performance. It demonstrates end-to-end data analysis using Python, SQL, and Power BI.
 
-## Tech Stack
-- SQL
-- Python: pandas, numpy, matplotlib
-- Power BI
-- Git & GitHub
+## 🎯 Objective
 
-## Files
-- dataset.csv
-- sql_queries.sql
-- eda_analysis.py
-- requirements.txt
-- powerbi_dashboard_guide.md
-- resume_points.txt
-- interview_explanation.txt
+To help businesses make data-driven decisions by analyzing sales trends, identifying high-performing products, and optimizing revenue strategies.
 
-## Recommended Dashboard Pages
-1. Executive Overview
-2. Product & Category Analysis
-3. Operations & Returns
-4. Customer & Payments
+## 📊 Project Highlights
 
-## Suggested GitHub Repo Name
-`retail-sales-profit-analytics-pro`
+* Analyzed 10,000+ retail transactions
+* Performed data cleaning and transformation using Python
+* Extracted insights using SQL queries
+* Designed business KPIs for decision-making
+* Built dashboard-ready dataset for visualization
+
+## 🛠️ Tools & Technologies
+
+* Python (Pandas, NumPy, Matplotlib)
+* SQL
+* Power BI
+* Excel
+
+## 📂 Project Structure
+
+retail_sales_analytics/
+│── dataset.csv
+│── eda_analysis.py
+│── sql_queries.sql
+│── requirements.txt
+│── powerbi_dashboard_guide.md
+│── images/
+
+## 📈 Key KPIs
+
+* Total Revenue
+* Total Profit
+* Profit Margin
+* Monthly Sales Growth
+* Top Performing Products
+* Category-wise Sales Analysis
+
+## 🔍 Analysis Performed
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Revenue and profit trend analysis
+* Category and product performance analysis
+
+## 📊 Dashboard
+
+Power BI dashboard includes:
+
+* Revenue trends over time
+* Category-wise performance
+* Top products by sales
+* Profit distribution
+
+(Add dashboard screenshot in the `images/` folder)
+
+## 🧠 Skills Demonstrated
+
+* Data Analysis
+* SQL Query Writing
+* Python for Data Processing
+* Business Insight Generation
+* Dashboard Design Thinking
+
+## 🚀 How to Run (Python)
+
+pip install -r requirements.txt
+python eda_analysis.py
+
+## 💼 Use Case
+
+This project simulates a real-world retail business scenario where data is used to improve sales performance, optimize inventory, and support strategic decision-making.
+
+## 📌 Conclusion
+
+The analysis helps identify key revenue drivers, improve product strategies, and enables businesses to make data-driven decisions using analytics.
