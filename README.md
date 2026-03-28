@@ -1,20 +1,25 @@
-# 🚀 Retail Sales & Profit Analytics (Professional Project)
+# 🚀 Retail Sales & Profit Analytics
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Business%20Queries-green)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Portfolio%20Ready-brightgreen)
 
 ## 📌 Overview
 
-This project analyzes large-scale retail sales data to uncover business insights related to revenue, profit, and product performance. It demonstrates end-to-end data analysis using Python, SQL, and Power BI.
+This project presents an end-to-end retail sales analytics solution using Python, SQL, and Power BI to analyze 10,000+ transactions and generate business insights.
 
-## 🎯 Objective
+## 🎯 Business Problem
 
-To help businesses make data-driven decisions by analyzing sales trends, identifying high-performing products, and optimizing revenue strategies.
+Retail businesses need data-driven insights to improve revenue, profitability, and customer understanding. This project converts raw data into actionable insights.
 
 ## 📊 Project Highlights
 
 * Analyzed 10,000+ retail transactions
-* Performed data cleaning and transformation using Python
-* Extracted insights using SQL queries
-* Designed business KPIs for decision-making
-* Built dashboard-ready dataset for visualization
+* Performed data cleaning using Python
+* Extracted insights using SQL
+* Designed KPI-driven dashboard
+* Created professional dashboard visuals
 
 ## 🛠️ Tools & Technologies
 
@@ -25,57 +30,73 @@ To help businesses make data-driven decisions by analyzing sales trends, identif
 
 ## 📂 Project Structure
 
-retail_sales_analytics/
+pro_retail_sales_analytics/
 │── dataset.csv
 │── eda_analysis.py
 │── sql_queries.sql
 │── requirements.txt
 │── powerbi_dashboard_guide.md
 │── images/
+│   ├── dashboard_preview_page1.png
+│   └── dashboard_preview_page2.png
 
 ## 📈 Key KPIs
 
 * Total Revenue
 * Total Profit
-* Profit Margin
-* Monthly Sales Growth
-* Top Performing Products
-* Category-wise Sales Analysis
+* Profit Margin %
+* Total Orders
+* Return Rate %
+* Average Delivery Days
 
 ## 🔍 Analysis Performed
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
-* Revenue and profit trend analysis
-* Category and product performance analysis
+* Revenue trend analysis
+* Category-wise performance
+* Region-wise profit
+* Return rate analysis
+* Payment method insights
+* Customer segment analysis
+* Product profitability
 
- ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-### Page 1
+### Page 1: Sales & Profit Overview
+
 ![Dashboard Page 1](images/dashboard_preview_page1.png)
 
-### Page 2
+### Page 2: Customer, Channel & Product Insights
+
 ![Dashboard Page 2](images/dashboard_preview_page2.png)
 
-(Add dashboard screenshot in the `images/` folder)
+## 💡 Key Insights
+
+* Highest revenue from credit card payments
+* Online channel gives highest profit
+* Consumer segment contributes highest revenue
+* Some products have low profitability
 
 ## 🧠 Skills Demonstrated
 
 * Data Analysis
 * SQL Query Writing
-* Python for Data Processing
+* Python Data Processing
+* KPI Design
+* Dashboard Planning
 * Business Insight Generation
-* Dashboard Design Thinking
 
-## 🚀 How to Run (Python)
+## 🚀 How to Run
 
 pip install -r requirements.txt
 python eda_analysis.py
 
 ## 💼 Use Case
 
-This project simulates a real-world retail business scenario where data is used to improve sales performance, optimize inventory, and support strategic decision-making.
+This project simulates a real-world retail business scenario to improve decision-making using analytics.
 
-## 📌 Conclusion
+## 👨‍💻 Author
 
-The analysis helps identify key revenue drivers, improve product strategies, and enables businesses to make data-driven decisions using analytics.
+Galla Divya Teja
+Hyderabad
+LinkedIn: https://www.linkedin.com/in/divya-teja-galla-7006592ba/
+GitHub: https://github.com/TejaGalla
