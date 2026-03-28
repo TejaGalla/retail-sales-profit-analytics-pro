@@ -97,6 +97,9 @@ This project simulates a real-world retail business scenario to improve decision
 ## 👨‍💻 Author
 
 Galla Divya Teja
+
 Hyderabad
+
 LinkedIn: https://www.linkedin.com/in/divya-teja-galla-7006592ba/
+
 GitHub: https://github.com/TejaGalla
